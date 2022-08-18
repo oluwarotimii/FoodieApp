@@ -8,13 +8,13 @@ Features
 
 
 Dependencies
-  React-Redux
-  Vector Icons
-  Firebase
-  Gesture Handler
-  Paystack Webview
-  SafeArea Context
-  React-Navigation
+	React-Redux,
+  Vector Icons,
+  Firebase,
+  Gesture Handler,
+  Paystack Webview,
+  SafeArea Context,
+  React-Navigation,
 
 ![Capture](https://user-images.githubusercontent.com/60570935/185449518-fe199a7b-eeb2-455f-b3a8-9b70cbc33ec4.PNG)
 ![22](https://user-images.githubusercontent.com/60570935/185449536-75ce5a2b-2e18-4ddd-bc5b-2bfd27d4a6bd.PNG)
