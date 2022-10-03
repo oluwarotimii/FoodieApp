@@ -1,7 +1,7 @@
 ## FoodieApp
 Food delivery application made with React-native
 Features
-  * Firebase Auth
+  * Firebase Authentication 
  * Paystack Webview
 *  Add to Cart
 *  Menu Screen
@@ -23,3 +23,39 @@ Features
 ![Capture3](https://user-images.githubusercontent.com/60570935/185449547-04fae367-3b6f-4790-b159-0caf8538d799.PNG)
 ![Capture8](https://user-images.githubusercontent.com/60570935/185449554-a4ab8853-1ca3-450d-ae78-ce43ba8f6a6c.PNG)
 ![Capture6](https://user-images.githubusercontent.com/60570935/185449567-e1e3118b-df6b-4d76-8ed5-0f10fd6a8385.PNG)
+
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+
+  git clone
+
+```
+
+Go to the project directory
+
+```bash
+
+  cd foodiie
+
+```
+
+Install dependencies
+
+```bash
+
+  npm install
+
+```
+
+Start the server
+
+```bash
+
+  npm start
+
+```
