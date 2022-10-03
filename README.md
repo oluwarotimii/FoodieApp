@@ -18,6 +18,8 @@ Features
 *  React-Navigation,
 * React-Redux
 
+
+## Screenshot 
 ![Capture](https://user-images.githubusercontent.com/60570935/185449518-fe199a7b-eeb2-455f-b3a8-9b70cbc33ec4.PNG)
 ![22](https://user-images.githubusercontent.com/60570935/185449536-75ce5a2b-2e18-4ddd-bc5b-2bfd27d4a6bd.PNG)
 ![Capture3](https://user-images.githubusercontent.com/60570935/185449547-04fae367-3b6f-4790-b159-0caf8538d799.PNG)
